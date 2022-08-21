@@ -6,7 +6,8 @@ to make executable run
   --noconfirm
   --onedir
   --windowed
-  --icon "<PATH>/icon.ico" 
+  --icon "<PATH>/icon.ico"
+  --name "0KONVERTOR"
   --add-data "<PATH>/arial.ttf;." 
   --add-data "<PATH>/log.txt;."  
 "<PATH>/main.py" `
