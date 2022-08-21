@@ -1,0 +1,219 @@
+'-LOG-'
+
+can only concatenate str (not "int") to str
+
+Dali_Standard_M14.jpg : 45.1689453125 606 477
+Dali_Standard_M12.jpg : 43.87109375 600 472
+Dali_Standard_F10.jpg : 42.083984375 1000 954
+Dali_Standard_F09_02_slt.jpg : 38.048828125 1000 666
+Dali_Standard_F14_02.jpg : 33.5078125 1000 666
+Dali_Standard_F10_slt.jpg : 42.64453125 1000 953
+Dali_Standard_M14.jpg : 45.1142578125 606 477
+Dali_Standard_M12.jpg : 43.818359375 600 472
+Dali_Standard_F10.jpg : 42.03515625 1000 954
+Dali_Standard_F09_02_slt.jpg : 38.015625 1000 666
+Dali_Standard_F14_02.jpg : 33.439453125 1000 666
+Dali_Standard_F10_slt.jpg : 42.6201171875 1000 953
+
+
+Dali_Standard_M14.jpg : 45.455078125 606 477
+Dali_Standard_M12.jpg : 44.1845703125 600 472
+Dali_Standard_F10.jpg : 42.33203125 1000 954
+Dali_Standard_F09_02_slt.jpg : 38.3056640625 1000 666
+Dali_Standard_F14_02.jpg : 33.83984375 1000 666
+Dali_Standard_F10_slt.jpg : 42.90234375 1000 953
+
+
+Dali_Standard_M14.jpg : 45.146484375 606 477
+Dali_Standard_M12.jpg : 43.88671875 600 472
+Dali_Standard_F10.jpg : 42.0830078125 1000 954
+Dali_Standard_F09_02_slt.jpg : 38.064453125 1000 666
+Dali_Standard_F14_02.jpg : 33.505859375 1000 666
+Dali_Standard_F10_slt.jpg : 42.6572265625 1000 953
+
+
+Dali_Standard_M14.jpg : 45.41015625 606 477
+Dali_Standard_M12.jpg : 44.11328125 600 472
+Dali_Standard_F10.jpg : 42.28515625 1000 954
+Dali_Standard_F09_02_slt.jpg : 38.2724609375 1000 666
+Dali_Standard_F14_02.jpg : 33.7724609375 1000 666
+Dali_Standard_F10_slt.jpg : 42.8525390625 1000 953
+
+
+Dali_Standard_M14.jpg : 2.119140625 75 59
+Dali_Standard_M12.jpg : 2.0673828125 74 58
+Dali_Standard_F10.jpg : 4.859375 210 201
+Dali_Standard_F09_02_slt.jpg : 4.4658203125 211 140
+Dali_Standard_F14_02.jpg : 4.458984375 211 140
+Dali_Standard_F10_slt.jpg : 4.751953125 206 197
+
+
+Dali_Standard_M14.jpg : 2.119140625 75 59
+Dali_Standard_M12.jpg : 2.08984375 74 58
+Dali_Standard_F10.jpg : 4.7646484375 210 201
+Dali_Standard_F09_02_slt.jpg : 4.396484375 211 140
+Dali_Standard_F14_02.jpg : 4.3701171875 211 140
+Dali_Standard_F10_slt.jpg : 4.662109375 206 197
+
+
+Dali_Standard_M14.jpg : 2.0888671875 75 59
+Dali_Standard_M12.jpg : 2.048828125 74 58
+Dali_Standard_F10.jpg : 4.7119140625 210 201
+Dali_Standard_F09_02_slt.jpg : 4.3447265625 211 140
+Dali_Standard_F14_02.jpg : 4.26953125 211 140
+Dali_Standard_F10_slt.jpg : 4.611328125 206 197
+
+
+Dali_Standard_M14.jpg : 110.2841796875 999 787
+Dali_Standard_M12.jpg : 110.833984375 999 787
+Dali_Standard_F10.jpg : 42.70703125 1000 954
+Dali_Standard_F09_02_slt.jpg : 38.6494140625 1000 666
+Dali_Standard_F14_02.jpg : 34.0634765625 1000 666
+Dali_Standard_F10_slt.jpg : 43.265625 1000 954
+
+
+height and width must be > 0
+
+
+
+
+Dali_Standard_M14.jpg : 96.119140625 949 747
+Dali_Standard_M12.jpg : 96.26171875 949 747
+Dali_Standard_F10.jpg : 42.8779296875 1000 954
+Dali_Standard_F09_02_slt.jpg : 38.8447265625 1000 666
+Dali_Standard_F14_02.jpg : 34.3076171875 1000 666
+Dali_Standard_F10_slt.jpg : 43.4365234375 1000 954
+
+
+Dali_Standard_M14.jpg : 96.001953125 949 747
+Dali_Standard_M12.jpg : 96.0947265625 949 747
+Dali_Standard_F10.jpg : 42.671875 1000 954
+Dali_Standard_F09_02_slt.jpg : 38.607421875 1000 666
+Dali_Standard_F14_02.jpg : 34.0078125 1000 666
+Dali_Standard_F10_slt.jpg : 43.2216796875 1000 954
+
+
+Dali_Standard_M14.jpg : 95.912109375 949 747
+Dali_Standard_M12.jpg : 96.0576171875 949 747
+Dali_Standard_F10.jpg : 42.6611328125 1000 954
+Dali_Standard_F09_02_slt.jpg : 38.5576171875 1000 666
+Dali_Standard_F14_02.jpg : 33.9619140625 1000 666
+Dali_Standard_F10_slt.jpg : 43.185546875 1000 954
+
+
+[Errno 2] No such file or directory: '0orig-images'
+
+
+[Errno 2] No such file or directory: '0orig-imagesDali_Standard_M14.jpg'
+
+
+Dali_Standard_M14.jpg : 96.7587890625 949 747
+Dali_Standard_M12.jpg : 96.884765625 949 747
+Dali_Standard_F10.jpg : 43.61328125 1000 954
+Dali_Standard_F09_02_slt.jpg : 39.548828125 1000 666
+Dali_Standard_F14_02.jpg : 35.1787109375 1000 666
+Dali_Standard_F10_slt.jpg : 44.1552734375 1000 954
+
+Dali_Standard_M14.jpg : 98.015625 949 747
+Dali_Standard_M12.jpg : 98.1611328125 949 747
+Dali_Standard_F10.jpg : 44.9892578125 1000 954
+Dali_Standard_F09_02_slt.jpg : 40.927734375 1000 666
+Dali_Standard_F14_02.jpg : 36.748046875 1000 666
+Dali_Standard_F10_slt.jpg : 45.5166015625 1000 954
+
+
+Dali_Standard_M14.jpg : 97.8818359375 949 747
+Dali_Standard_M12.jpg : 98.0244140625 949 747
+Dali_Standard_F10.jpg : 44.8642578125 1000 954
+Dali_Standard_F09_02_slt.jpg : 40.78515625 1000 666
+Dali_Standard_F14_02.jpg : 36.5439453125 1000 666
+Dali_Standard_F10_slt.jpg : 45.3916015625 1000 954
+
+
+Dali_Standard_M14.jpg : 99.265625 949 747
+Dali_Standard_M12.jpg : 99.3583984375 949 747
+Dali_Standard_F10.jpg : 46.47265625 1000 954
+Dali_Standard_F09_02_slt.jpg : 42.3994140625 1000 666
+Dali_Standard_F14_02.jpg : 38.2607421875 1000 666
+Dali_Standard_F10_slt.jpg : 47.0 1000 954
+
+
+Dali_Standard_M14.jpg : 86.927734375 901 709
+Dali_Standard_M12.jpg : 86.947265625 901 709
+Dali_Standard_F10.jpg : 45.55859375 1000 954
+Dali_Standard_F09_02_slt.jpg : 41.51171875 1000 666
+Dali_Standard_F14_02.jpg : 37.3359375 1000 666
+Dali_Standard_F10_slt.jpg : 46.1171875 1000 954
+
+
+Dali_Standard_M14.jpg : 84.4052734375 901 709
+Dali_Standard_M12.jpg : 84.4248046875 901 709
+Dali_Standard_F10.jpg : 42.7705078125 1000 954
+Dali_Standard_F14_02.jpg : 34.1572265625 1000 666
+Dali_Standard_F09_02_slt.JPG : 38.689453125 1000 666
+Dali_Standard_F10_slt.jpg : 43.3125 1000 954
+
+
+Dali_Standard_M14.jpg : 84.107421875 901 709
+Dali_Standard_M12.jpg : 84.0830078125 901 709
+Dali_Standard_F10.jpg : 42.34375 1000 954
+Dali_Standard_F14_02.jpg : 33.49609375 1000 666
+Dali_Standard_F09_02_slt.JPG : 38.2685546875 1000 666
+Dali_Standard_F10_slt.jpg : 42.8662109375 1000 954
+
+
+Dali_Standard_M14.jpg : 84.3173828125 901 709
+Dali_Standard_M12.jpg : 84.2900390625 901 709
+Dali_Standard_F10.jpg : 42.6953125 1000 954
+Dali_Standard_F14_02.jpg : 33.9814453125 1000 666
+Dali_Standard_F09_02_slt.JPG : 38.6171875 1000 666
+Dali_Standard_F10_slt.jpg : 43.216796875 1000 954
+
+
+Dali_Standard_M14.jpg : 84.3193359375 901 709
+Dali_Standard_M12.jpg : 84.2919921875 901 709
+Dali_Standard_F10.jpg : 42.630859375 1000 954
+Dali_Standard_F14_02.jpg : 33.91015625 1000 666
+Dali_Standard_F09_02_slt.JPG : 38.55859375 1000 666
+Dali_Standard_F10_slt.jpg : 43.1533203125 1000 954
+
+
+unsupported operand type(s) for +: 'int' and 'str'
+
+
+
+
+
+
+
+
+
+Dali_Standard_M14.jpg : 0resized-images/w01.jpg 84.1884765625 901 709
+Dali_Standard_M12.jpg : 0resized-images/w01.jpg 84.1630859375 901 709
+Dali_Standard_F10.jpg : 0resized-images/w01.jpg 42.4326171875 1000 954
+Dali_Standard_F14_02.jpg : 0resized-images/w01.jpg 33.6279296875 1000 666
+Dali_Standard_F09_02_slt.JPG : 0resized-images/w01.jpg 38.357421875 1000 666
+Dali_Standard_F10_slt.jpg : 0resized-images/w01.jpg 42.955078125 1000 954
+
+
+Dali_Standard_M14.jpg : 0resized-images/xx01.jpg 84.283203125 901 709
+Dali_Standard_M12.jpg : 0resized-images/xx02.jpg 84.2587890625 901 709
+Dali_Standard_F10.jpg : 0resized-images/xx03.jpg 42.505859375 1000 954
+Dali_Standard_F14_02.jpg : 0resized-images/xx04.jpg 33.7119140625 1000 666
+Dali_Standard_F09_02_slt.JPG : 0resized-images/xx05.jpg 38.4306640625 1000 666
+Dali_Standard_F10_slt.jpg : 0resized-images/xx06.jpg 43.0283203125 1000 954
+
+
+Dali_Standard_F09_02_slt.JPG : 0resized-images/novy01.jpg 38.8828125 1000 666
+Dali_Standard_M14.jpg : 0resized-images/novy02.jpg 84.486328125 901 709
+Dali_Standard_F10_slt.jpg : 0resized-images/novy03.jpg 43.478515625 1000 954
+Dali_Standard_F14_02.jpg : 0resized-images/novy04.jpg 34.326171875 1000 666
+Dali_Standard_M12.jpg : 0resized-images/novy05.jpg 84.46484375 901 709
+Dali_Standard_F10.jpg : 0resized-images/novy06.jpg 42.958984375 1000 954
+
+Dali_Standard_F09_02_slt.JPG : 0resized-images/novy01.jpg 38.8828125 1000 666
+Dali_Standard_M14.jpg : 0resized-images/novy02.jpg 84.486328125 901 709
+Dali_Standard_F10_slt.jpg : 0resized-images/novy03.jpg 43.478515625 1000 954
+Dali_Standard_F14_02.jpg : 0resized-images/novy04.jpg 34.326171875 1000 666
+Dali_Standard_M12.jpg : 0resized-images/novy05.jpg 84.46484375 901 709
+Dali_Standard_F10.jpg : 0resized-images/novy06.jpg 42.958984375 1000 954
